@@ -1,0 +1,6 @@
+framework module Pods_tabbeneTests {
+  umbrella header "Pods-tabbeneTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
